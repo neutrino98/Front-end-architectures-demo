@@ -4,6 +4,6 @@ export class HeroesController {
     
     initEmitter() {
         const emitter = new EventEmitter();
-        emitter.on()
+        //emitter.on()
     }
 }

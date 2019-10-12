@@ -1,5 +1,5 @@
 import React from 'react';
-import { HeroView } from './Heroes.view';
+import { HeroView } from './heroes.view';
 
 const App: React.FC = () => {
   return (
